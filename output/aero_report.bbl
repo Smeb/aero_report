@@ -1,0 +1,159 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{anyt}{anyt}
+    \entry{boyne10}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d50e256099488b2f0c6ce003a96828b7}{Boyne}{B\bibinitperiod}{Walter\bibnamedelima J.}{W\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Arlington, Virginia}%
+      }
+      \list{publisher}{1}{%
+        {The Air Force Association}%
+      }
+      \strng{namehash}{d50e256099488b2f0c6ce003a96828b7}
+      \strng{fullhash}{d50e256099488b2f0c6ce003a96828b7}
+      \field{labelalpha}{Boy10}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2010}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Air Force Magazine}
+      \field{month}{12}
+      \field{title}{The Last of the Dive-bombers}
+      \field{year}{2010}
+    \endentry
+    \entry{curry88}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7e58451b9490874c941f011259f7894b}{Curry}{C\bibinitperiod}{Norman\bibnamedelima S.}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Washington}%
+      }
+      \list{publisher}{2}{%
+        {American Institute of Aeronautics}%
+        {Astronautics}%
+      }
+      \strng{namehash}{7e58451b9490874c941f011259f7894b}
+      \strng{fullhash}{7e58451b9490874c941f011259f7894b}
+      \field{labelalpha}{Cur88}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{1988}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aircraft Landing Gear Design - Principles and Practices}
+      \field{year}{1988}
+    \endentry
+    \entry{bbc11}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ab0a22ecc159e57f1eecfc0df1c4ac5e}{Johnston}{J\bibinitperiod}{Alan}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ab0a22ecc159e57f1eecfc0df1c4ac5e}
+      \strng{fullhash}{ab0a22ecc159e57f1eecfc0df1c4ac5e}
+      \field{labelalpha}{Joh}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{2016}
+      \field{labelmonth}{03}
+      \field{labelday}{16}
+      \field{datelabelsource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Libya 1911: How an Italian pilot began the air war era}
+      \field{urlday}{16}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \verb{url}
+      \verb www.bbc.co.uk/news/world-europe-13294524
+      \endverb
+    \endentry
+    \entry{cep88}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5b51b0e528151c19e74af9d23c601434}{Nelson}{N\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5b51b0e528151c19e74af9d23c601434}
+      \strng{fullhash}{5b51b0e528151c19e74af9d23c601434}
+      \field{labelalpha}{Nel88}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1988}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Use of Circular Error Probability in Target Detection}
+      \field{year}{1988}
+    \endentry
+    \entry{raus03}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=524b5b7612f33f0d9065759e58008a22}{Raus}{R\bibinitperiod}{Erhard}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1fad727b99ff405d9b8c29babf584822}{Newton}{N\bibinitperiod}{Steven\bibnamedelima H.}{S\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {De Capo Press}%
+      }
+      \strng{namehash}{524b5b7612f33f0d9065759e58008a22}
+      \strng{fullhash}{524b5b7612f33f0d9065759e58008a22}
+      \field{labelalpha}{Rau03}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Panzer operations: the Eastern Front memoir of General Raus 1941-1945}
+      \field{year}{2003}
+    \endentry
+    \entry{weal97}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=46ac906b2bac6507d4d149e8d2f65b42}{Weal}{W\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Osprey Publishing}%
+      }
+      \strng{namehash}{46ac906b2bac6507d4d149e8d2f65b42}
+      \strng{fullhash}{46ac906b2bac6507d4d149e8d2f65b42}
+      \field{labelalpha}{Wea97}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Junkers Ju 87 Stukageschwader 1937-41 (Combat Aircraft)}
+      \field{year}{1997}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

@@ -1,0 +1,103 @@
+\documentclass[a4paper, fontsize=11pt]{scrartcl} % A4 paper and 11pt font size
+% \usepackage{showframe} % page debugging
+\usepackage[bottom=1.0in]{geometry} % slightly shorter margin bottom
+\usepackage{times}
+\usepackage[T1]{fontenc} % use 8 bit encoding that has 256 glyphs
+\usepackage[english]{babel} % English language/hyphenation
+\usepackage{csquotes}
+\usepackage{parskip}
+\usepackage{sectsty}
+\usepackage{enumitem}
+\usepackage{url}
+\usepackage[
+  backend=biber,
+  style=alphabetic,
+  citestyle=authoryear
+]{biblatex}
+\addbibresource{aero_report.bib}
+
+\allsectionsfont{\normalfont\scshape}
+\setlength{\headheight}{7.6pt}
+\setlength{\headsep}{0pt}
+\setlength{\parsep}{0pt}
+\setlength{\topskip}{0pt}
+\setlength{\topmargin}{0pt}
+\setlength{\topsep}{0pt}
+\setlength{\partopsep}{0pt}
+
+%--------------------------------------------------------------------------------
+%   TITLE SECTION
+%--------------------------------------------------------------------------------
+
+\newcommand{\horrule}[1]{\rule{\linewidth}{#1}}
+
+\title{
+        \normalfont \normalsize
+        \textsc{ucl, computer science}
+        \horrule{0.5pt} \\[0.4cm]
+        \huge{Case Study: Junkers 87 'Stuka'}\\
+        \horrule{0.5pt} \\[0.5cm]
+}
+
+\author{Ben Ryves}
+
+\date{\normalsize\today}
+
+\begin{document}
+\maketitle
+
+% abstract
+
+
+
+% development of bombers - need for precision
+% development of dive bombers
+
+The first attack launched from an airplane was undertaken by Giulio
+Gavotti in 1911, during the Italo-Turkish war, when Gavotti dropped
+grenades from his Taube Monoplane \autocite{bbc11}. A few years later,
+at the start of World War 1 (WW1), Italy and Russia had developed purpose
+built bombers, and by the end of WW1 most of the belligerent nations
+had developed bombing capabilities of their own (citation), using
+aerodynamically shaped bombs with no guidance or thrust. When dropped from a
+high altitude during horizontal strafes of the target, these bombs had
+complicated trajectories which were affected by drag and gravity, and
+which were sighted using fixed sights to provide an estimated impact point
+without accounting for the prevailing atmospheric conditions
+(citation). Due to these conditions, bombs had a large circular error
+probable (CEP) \autocite{cep88}, limiting bombing to mass
+interdiction strategies requiring air supremacy.
+
+The dive-bomber design emerged as a solution to the need for precision
+bombing of strategic targets, and enabled combined arms close air
+support for ground units. Diving towards the target simplified
+calculation of the trajectory of a dropped bomb since the distance
+from release to impact was reduced, and the inital velocity was now
+acting in the direction of the target. The first preplanned dive bombing
+attack was carried out in 1918 against a German supply barge in France,
+sinking the barge with a 20-pound Cooper bomb \autocite[p.~72]{boyne10},
+and in the interwar period a number of designs were produced. (cont here)
+
+The Junkers Ju 87 'Stuka', was a dive bomber developed by Hermann
+Pohlmann in 1933, and which was first flown in 1935 \autocite[p.~9]{weal97}.
+
+Unusually for a strategic aircraft in World War II, the Stuka had fixed
+landing gear.\autocite[p.~4]{curry88}
+
+When calculating operational parameters for the Stuka, it is necessary
+to consider that the Luftwaffe deployed the Stuka in the Western and
+Eastern fronts, as well as the Desert and Meditteranean theatres.
+Accordingly, calculations have been done for the most extreme
+temperatures where the Stuka operated, as well as the more temperate
+Battle of Britain temperatures, in order to demonstrate the versatility
+of the Stuka.
+
+Lowest temperature of operation (Moscow): -45C \autocite{raus03}
+European / Battle of Britain temperatures:
+Highest temperature of operation ():
+
+% calculate atmosphere for Eastern, Western, Desert theatres, over land
+% as well as sea
+
+\printbibliography
+\end{document}
