@@ -2240,11 +2240,12 @@
     <bcf:datasource type="file" datatype="bibtex">aero_report.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">bbc11</bcf:citekey>
-    <bcf:citekey order="2">cep88</bcf:citekey>
-    <bcf:citekey order="3">weal97</bcf:citekey>
-    <bcf:citekey order="4">curry88</bcf:citekey>
-    <bcf:citekey order="5">raus03</bcf:citekey>
+    <bcf:citekey order="1">weal97</bcf:citekey>
+    <bcf:citekey order="2">killen67</bcf:citekey>
+    <bcf:citekey order="3">wardlaw33</bcf:citekey>
+    <bcf:citekey order="4">guardia14</bcf:citekey>
+    <bcf:citekey order="5">curry88</bcf:citekey>
+    <bcf:citekey order="6">raus03</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="anyt" type="entry" sortscheme="anyt">
   <bcf:sorting>
