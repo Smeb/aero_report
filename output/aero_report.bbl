@@ -19,31 +19,6 @@
 
 \refsection{0}
   \sortlist{anyt}{anyt}
-    \entry{boyne10}{article}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=d50e256099488b2f0c6ce003a96828b7}{Boyne}{B\bibinitperiod}{Walter\bibnamedelima J.}{W\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Arlington, Virginia}%
-      }
-      \list{publisher}{1}{%
-        {The Air Force Association}%
-      }
-      \strng{namehash}{d50e256099488b2f0c6ce003a96828b7}
-      \strng{fullhash}{d50e256099488b2f0c6ce003a96828b7}
-      \field{labelalpha}{Boy10}
-      \field{sortinit}{B}
-      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
-      \field{labelyear}{2010}
-      \field{labelmonth}{12}
-      \field{datelabelsource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Air Force Magazine}
-      \field{month}{12}
-      \field{title}{The Last of the Dive-bombers}
-      \field{year}{2010}
-    \endentry
     \entry{curry88}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=7e58451b9490874c941f011259f7894b}{Curry}{C\bibinitperiod}{Norman\bibnamedelima S.}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
