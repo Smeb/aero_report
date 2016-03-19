@@ -1,0 +1,247 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{anyt}{anyt}
+    \entry{curry88}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7e58451b9490874c941f011259f7894b}{Curry}{C\bibinitperiod}{Norman\bibnamedelima S.}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Washington}%
+      }
+      \list{publisher}{2}{%
+        {American Institute of Aeronautics}%
+        {Astronautics}%
+      }
+      \strng{namehash}{7e58451b9490874c941f011259f7894b}
+      \strng{fullhash}{7e58451b9490874c941f011259f7894b}
+      \field{labelalpha}{Cur88}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{1988}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aircraft Landing Gear Design - Principles and Practices}
+      \field{year}{1988}
+    \endentry
+    \entry{guardia14}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=86ca26b834c41c033fc827ffd2d6fc6f}{Guardia}{G\bibinitperiod}{Mike}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Osprey Publishing}%
+      }
+      \strng{namehash}{86ca26b834c41c033fc827ffd2d6fc6f}
+      \strng{fullhash}{86ca26b834c41c033fc827ffd2d6fc6f}
+      \field{labelalpha}{Gua14}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{1914}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Junkers Ju 87 Stuka}
+      \field{year}{1914}
+    \endentry
+    \entry{hartshorn31}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=74d0c79e4ff38ac5d9825a41ba44bc14}{Hartshorn}{H\bibinitperiod}{A.S.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{74d0c79e4ff38ac5d9825a41ba44bc14}
+      \strng{fullhash}{74d0c79e4ff38ac5d9825a41ba44bc14}
+      \field{labelalpha}{Har31}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1931}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{8}
+      \field{journaltitle}{Aircraft Engineering and Aerospace Technology}
+      \field{title}{"Fuselage Interference Effect"}
+      \field{volume}{3}
+      \field{year}{1931}
+      \field{pages}{201\bibrangedash 203}
+      \range{pages}{3}
+    \endentry
+    \entry{killen67}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0c15eb81f01cb7e68b31c8fb53919116}{Killen}{K\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Barnsley, South Yorkshire}%
+      }
+      \list{publisher}{1}{%
+        {Pen \& Sword Military Classics}%
+      }
+      \strng{namehash}{0c15eb81f01cb7e68b31c8fb53919116}
+      \strng{fullhash}{0c15eb81f01cb7e68b31c8fb53919116}
+      \field{labelalpha}{Kil67}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{1967}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Luftwaffe: A history}
+      \field{year}{1967}
+    \endentry
+    \entry{nasa4}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fd2e2024f2fc93ac7bc37d34cd5b2a09}{Nasa}{N\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{fd2e2024f2fc93ac7bc37d34cd5b2a09}
+      \strng{fullhash}{fd2e2024f2fc93ac7bc37d34cd5b2a09}
+      \field{labelalpha}{Nas}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{2016}
+      \field{labelmonth}{03}
+      \field{labelday}{18}
+      \field{datelabelsource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Quest for Performance: The Evolution of Modern Aircraft}
+      \field{urlday}{18}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \verb{url}
+      \verb history.nasa.gov/SP-468/ch4-3.htm
+      \endverb
+    \endentry
+    \entry{peery12}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=06d3e56ecea16eaca1e85a56f8b48983}{Peery}{P\bibinitperiod}{David\bibnamedelima J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Dover}%
+      }
+      \list{publisher}{1}{%
+        {Dover Publications Inc.}%
+      }
+      \strng{namehash}{06d3e56ecea16eaca1e85a56f8b48983}
+      \strng{fullhash}{06d3e56ecea16eaca1e85a56f8b48983}
+      \field{labelalpha}{Pee12}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aircraft Structures}
+      \field{year}{2012}
+    \endentry
+    \entry{usni}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c00280e4d386d9d8a9ce40a42538b036}{Sibila}{S\bibinitperiod}{Alfred\bibnamedelima I.}{A\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c00280e4d386d9d8a9ce40a42538b036}
+      \strng{fullhash}{c00280e4d386d9d8a9ce40a42538b036}
+      \field{labelalpha}{Sib}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2016}
+      \field{labelmonth}{03}
+      \field{labelday}{18}
+      \field{datelabelsource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Designing the Bent-Wing Bird}
+      \field{urlday}{18}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \verb{url}
+      \verb www.usni.org/magazines/navalhistory/1995-02/designing-bent-wing-bird
+      \endverb
+    \endentry
+    \entry{manual39}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=88183b946cc5f0e8c96b2e66e1c74a7e}{Unknown}{U\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Dessau}%
+      }
+      \list{publisher}{1}{%
+        {Junkers Fugzeug und Motorenwerke}%
+      }
+      \strng{namehash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \strng{fullhash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \field{labelalpha}{Unk39}
+      \field{sortinit}{U}
+      \field{sortinithash}{8145509bd2718876fc77d31fd2cde117}
+      \field{labelyear}{1939}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ju 87 B-1 Betriebsanleitung}
+      \field{year}{1939}
+    \endentry
+    \entry{wardlaw33}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0fc710c2f9761782e6727c2a3ca4d2be}{Wardlaw}{W\bibinitperiod}{George\bibnamedelima Addison}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Washington}%
+      }
+      \list{publisher}{1}{%
+        {Division of Specifications}%
+      }
+      \strng{namehash}{0fc710c2f9761782e6727c2a3ca4d2be}
+      \strng{fullhash}{0fc710c2f9761782e6727c2a3ca4d2be}
+      \field{labelalpha}{War33}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1933}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Standards and Specifications for Metals and Metal Products}
+      \field{year}{1933}
+    \endentry
+    \entry{weal97}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=46ac906b2bac6507d4d149e8d2f65b42}{Weal}{W\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Osprey Publishing}%
+      }
+      \strng{namehash}{46ac906b2bac6507d4d149e8d2f65b42}
+      \strng{fullhash}{46ac906b2bac6507d4d149e8d2f65b42}
+      \field{labelalpha}{Wea97}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Junkers Ju 87 Stukageschwader 1937-41 (Combat Aircraft)}
+      \field{year}{1997}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

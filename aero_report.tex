@@ -33,11 +33,11 @@
 \newcommand{\horrule}[1]{\rule{\linewidth}{#1}}
 
 \title{
-        \normalfont \normalsize
-        \textsc{ucl, computer science}
-        \horrule{0.5pt} \\[0.4cm]
-        \huge{Case Study: Junkers 87 'Stuka'}\\
-        \horrule{0.5pt} \\[0.5cm]
+  \normalfont \normalsize
+  \textsc{ucl, computer science}
+  \horrule{0.5pt} \\[0.4cm]
+  \huge{Case Study: Junkers 87 'Stuka'}\\
+  \horrule{0.5pt} \\[0.5cm]
 }
 
 \author{Ben Ryves}
@@ -53,16 +53,34 @@
 
 % development of bombers - need for precision
 % development of dive bombers
+\section{Abstract}
+This case study examines the Junkers Ju 87 'Stuka', a German dive bomber
+designed and deployed during the Third Reich. The study begins by giving
+context for the Stuka, and an examination of the motivations behind dive
+bombing, before proceeding to an in depth analysis of the contstruction
+and aeronautic performance of the Stuka. Where possible primary source
+material such as the surviving Stuka at RAF museum Hendon, and German
+maintenance manuals have been used. All other evidence has been
+gathered from secondary historical commentary; and all calculations have
+been informed by technical reports and textbooks.
+
+When calculating operational parameters for the Stuka, it is necessary
+to consider that the Luftwaffe deployed the Stuka in the Western and
+Eastern fronts, as well as the Desert and Meditteranean theatres.
+Accordingly, calculations have been performed for the hottest and
+coldest temperatures at which the Stuka operated, as well as using
+meteorological data from the Battle of Britain as a model for ideal
+operational conditions.
 \section{Junkers Ju 87}
 
-The Junkers Ju 87 'Stuka' design, the development of
+The Junkers Ju 87 design, the development of
 which was lead by Hermann Pohlman, began development in 1933. First flown
 in 1935 \autocite[p.~9]{weal97}, the Stuka succeeded a previous
 Junkers Ju 47 K dive bombing design, which had been rejected by the
 German Reichswehr (defense ministry) as too expensive, and replaced the
 Heinkel He 50 as the dive bomber of choice for the Luftwaffe. Heinkel
-had also been developing a competing design, the 118, but lost the dive
-bomber contract when their design could not demonstrate the prequisite
+had also been developing a competing design, the 118, but failed to win the
+contract when their design could not demonstrate the prequisite
 ability to dive at a 90\textdegree\ angle, disintegrating during flight
 \autocite[p.~68-69]{killen67} and forcing the pilot and judge of the
 competition, Ernst Udet, to bail out.
@@ -95,81 +113,100 @@ steep diving maneuvers limited payload weight and placed increased
 stress on the craft. Dive bombers were also targets of opportunity for
 enemy fighters, since their diving manoeuvres were predictable and broke from
 protective formations, and they could not match the manoeuvrability or
-speed of fighter craft; this, in addition to improvements in sighting
-technology, lead to the decline of the dive bomber after WW2.
+speed of fighter craft; this, in conjunction with improvements in
+bombing technology, lead to the decline of the dive bomber after WW2.
 \subsection{Payload}
 \section{General Design of the Ju 87}
+
 \subsection{Structure}
 \subsubsection{Body}
-The Stuka was a monoplane, with the fuselage acting as an
+The Stuka was a twin seater monoplane, with the fuselage acting as an
 anchor for a single spar which passed through both wings and served to
 distribute the load caused by lift.
-This design, pioneered by Hugo Junkers in 1915, provided sufficient
-strength to support a single fixed wing, and superseded
-biplane designs by allowing for elimination of drag caused by interference
-between the two wings, as well as drag caused by adding supporting structures
-to the wings (such as struts). The Stuka's fuselage was constructed from two oval
-sections, which were joined along the longitudinal axis to form the
-chassis, and which was attached to series of U-shaped longerons running
-the length of the longitudinal axis. These longerons were also attached
-by curved brackets to frames which ran the length of the Stuka, and which were
-arranged in a z-shaped pattern in order to facilitate inspection of
-the longerons.
-\subsubsection{Wings}
+This design, pioneered by Hugo Junkers in 1915 \autocite{nasa4}, provided sufficient
+strength to support a single fixed wing design, which superseded
+biplane designs which were hampered by aerodynamic interference
+between the wings, as well as drag caused by structures
+necessary to support the wings \autocite[p~.37]{peery12}.
+The Stuka's fuselage was constructed from two oval
+chassis sections, which were joined using rivets along the longitudinal
+axis.  Internally, each section was attached to a series of longerons
+which ran the longitudinal length of the Stuka, and which were attached
+to a series of u-shaped frames. The use of longerons as opposed to
+stringers served to reinforce the Stuka for the increased load
+experienced during pullout from the diving maneuver \autocite{peery12}.
 
-\subsection{Materials}
+\subsubsection{Wings}
+The Stuka had low mounted polyhedral wings which were formed from two spars, and consisted of
+three sections; a central section and a port and starboard section. The
+central section was depressed to an anhedral angle of 8 degrees, while
+the two other wing sections had a dihedral angle of 12
+degrees. The total wingspan was 13.8m, giving a total wing area of
+31.90m\textsuperscript{2}; the length of the anhedral
+part of the wing on one side of the Stuka was 1.05m, while the dihedral part was
+5.5m (approximate) \footnote{No exact values could be found for wing
+sections, so lengths were calculated based on known wingspan and cockpit
+width, and proportions from scale drawings found in Junkers manuals
+\autocite{manual39}}. The justification for using an inverted gull-wing
+is not clear from documentation, since the polyhedral
+design complicated manufacture and added weight; however, a similar wing
+configuration can be found in the 1940 F4U Corsair, where the polyhedral
+design allowed shorter landing gear while still providing clearance
+for a 4m propeller \autocite{usni} - the Stuka's own propeller was 3.5m.
+As the landing gear of the Stuka were fixed, reducing their length would reduce
+drag. Another effect of the design was to cause the low
+mounted wings to protrude from the fuselage at a perpendicular angle,
+which would reduce interference between the wing and the body
+\autocite[p~.203]{hartshorn31}. A final reason for the design could have
+been to improve the pilot's visibility of the ground; the cockpit was
+located inline with wings of the Stuka, and the low mounting and
+anhedral angle would act to remove the wings from the pilot's field of
+view.
+
+In order to calculate lift, stability, and control, it will be necessary to
+calculate the Equivalent Dihedral Angle, or EDA given the polyhedral
+wingshape. 
+
+\subsubsection{Control Surfaces}
+Beneath the trailing edge of the wing were hinged full-span
+ailerons which were operated using hydraulics. To fit the wing, these
+ailerons were also divided into three sections.
+
+\subsubsection{Materials}
 
 The body itself was made principally from
 duralumin, an aluminum alloy composed from copper, magnesium, and
 manganese\footnote{Unfortunately, precise values for the alloy could not
-be located, but is likely to have been a composition of 95\% aluminum, 4\%
-copper, 0.5 - 1.0\% manganese, and 0.5 - 1.5\%
-magnesium \autocite[p.~102-103]{wardlaw33}},
-except in cases where parts were required to be more resilient to daily
-wear, in which case stronger magnesium alloys were used to reduce the
-need for maintenance \autocite[p.~15]{guardia14}.
+  be located, but the general composition of duralumin is 93.5 - 95\% aluminum, 4\%
+  copper, 0.5 - 1.0\% manganese, and 0.5 - 1.5\%
+  magnesium \autocite[p.~102-103]{wardlaw33}},
+  except in cases where parts were required to be more resilient to daily
+  wear, in which case stronger magnesium alloys were used to reduce the
+  need for maintenance \autocite[p.~15]{guardia14}.
 
-\subsection{Control Surfaces}
+  \subsection{Control Surfaces}
 
-\section{Testing, Production, Variants}
-All Stuka variants featured reversed gull wings, a 'broken nose' [reference]
-hump to the fore of the cockpit, and fixed landing gear with aerodynamic
-spatting\autocite[p.~4]{curry88}, lending the
-appearance of [quote, reference]. % reasons for these three design
+  \section{Testing, Production, Variants}
+  All Stuka variants featured reversed gull wings, a 'broken nose' [reference]
+  hump to the fore of the cockpit, and fixed landing gear with aerodynamic
+  spatting\autocite[p.~4]{curry88}, lending the
+  appearance of [quote, reference]. % reasons for these three design
 % choices
 
-As a wartime plane, the Stuka had a number of evolutionary variants as
-Luftwaffe requirements changed during the course of the war. Principal among these were the Ju 87A
-(pre-war prototype), Ju 87B (early war, Battle of Britain), Ju 87D
-(late war, improved performace), and Ju 87G (anti tank close support
-role).
-\subsection{Ju 87A}
-The 87A went through a number of iterations in the lead up to WW2,
-until it was eventually replaced by the Ju 87B production design. 
+  As a wartime plane, the Stuka had a number of evolutionary variants as
+  Luftwaffe requirements changed during the course of the war. Principal among these were the Ju 87A
+  (pre-war prototype), Ju 87B (early war, Battle of Britain), Ju 87D
+  (late war, improved performace), and Ju 87G (anti tank close support
+  role).
+  \subsection{Ju 87A}
+  The 87A went through a number of iterations in the lead up to WW2,
+  until it was eventually replaced by the Ju 87B production design.
 
-{image of Ju 87A}
-\subsection{Ju 87B}
-\subsection{Ju 87D}
-\subsection{Ju 87G}
-\section{Aeronautic Performance}
-\subsection{Lift}
-\subsection{Stability}
-\subsection{Takeoff}
-\section{Role Performance}
-When calculating operational parameters for the Stuka, it is necessary
-to consider that the Luftwaffe deployed the Stuka in the Western and
-Eastern fronts, as well as the Desert and Meditteranean theatres.
-Accordingly, calculations have been done for the most extreme
-temperatures where the Stuka operated, as well as the more temperate
-Battle of Britain temperatures, in order to demonstrate the versatility
-of the Stuka.
-
-Lowest temperature of operation (Moscow): -45C \autocite{raus03}
-European / Battle of Britain temperatures:
-Highest temperature of operation ():
-
-% calculate atmosphere for Eastern, Western, Desert theatres, over land
-% as well as sea
-
-\printbibliography
-\end{document}
+  {image of Ju 87A}
+  \subsection{Ju 87B}
+  Motor : Jumo 211 A/1
+  \subsection{Ju 87D}
+  \subsection{Ju 87G}
+  \printbibliography
+  \end{document}
+% maximum diving speed 540 km/h \autocite[p~.56]{manual39}

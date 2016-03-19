@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.12.7)  17 MAR 2016 05:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.11.17)  19 MAR 2016 23:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -599,56 +599,77 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 49.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 56.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 66.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 84.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 100.
- [1
+) [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 118.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 120.
+(Font)              <10.95> on input line 145.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 120.
+(Font)              <8> on input line 145.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 120.
+(Font)              <6> on input line 145.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 123.
+(Font)              <9> on input line 150.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 123.
- [2]
+(Font)              <5> on input line 150.
+ [2] [3]
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 166.
+ne 210.
 
-[3] (./output/aero_report.aux)
+
+Overfull \hbox (17.10431pt too wide) in paragraph at lines 211--211
+[]\T1/ptm/m/n/10.95 A.S. Hartshorn. ^^P  "Fuse-lage In-ter-fer-ence Ef-fect"^^Q
+. In: \T1/ptm/m/it/10.95 Air-craft En-gi-neer-ing and Aerospace
+ []
+
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 210.
+(/usr/share/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Overfull \hbox (9.75839pt too wide) in paragraph at lines 211--211
+[]\T1/ptm/m/n/10.95 Alfred I. Sibila. \T1/ptm/m/it/10.95 De-sign-ing the Bent-W
+ing Bird\T1/ptm/m/n/10.95 . \T1/ptm/m/sc/10.95 url\T1/ptm/m/n/10.95 : $\T1/pcr/
+m/n/10.95 www . usni . org / magazines /
+ []
+
+
+Overfull \hbox (1.06232pt too wide) in paragraph at lines 211--211
+[]\T1/ptm/m/n/10.95 Unknown. \T1/ptm/m/it/10.95 Ju 87 B-1 Be-trieb-san-leitung\
+T1/ptm/m/n/10.95 . Dessau: Junkers Fugzeug und Mo-toren-werke,
+ []
+
+[4] (./output/aero_report.aux)
 Package logreq Info: Writing requests to './output/aero_report.run.xml'.
 \openout1 = `./output/aero_report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10116 strings out of 493054
- 169199 string characters out of 6140586
- 658401 words of memory out of 5000000
- 13524 multiletter control sequences out of 15000+600000
- 58577 words of font info for 60 fonts, out of 8000000 for 9000
+ 10156 strings out of 493054
+ 169788 string characters out of 6140585
+ 659434 words of memory out of 5000000
+ 13559 multiletter control sequences out of 15000+600000
+ 59198 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,8n,50p,820b,1407s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
-ts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr
-i8a.pfb>
-Output written on ./output/aero_report.pdf (3 pages, 41622 bytes).
+ts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/ut
+mr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ./output/aero_report.pdf (4 pages, 57258 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 15 compressed objects within 1 object stream
+ 30 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

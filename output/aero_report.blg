@@ -1,13 +1,15 @@
 [0] Config.pm:327> INFO - This is Biber 2.2
-[0] Config.pm:330> INFO - Logfile is 'output/aero_report.blg'
-[34] biber:286> INFO - === Sat Mar 19, 2016, 14:53:50
-[34] Biber.pm:334> INFO - Reading 'output/aero_report.bcf'
-[135] Biber.pm:677> INFO - Found 6 citekeys in bib section 0
-[154] Biber.pm:3054> INFO - Processing section 0
-[168] Biber.pm:3193> INFO - Looking for bibtex format file 'aero_report.bib' for section 0
-[169] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
-[171] bibtex.pm:935> INFO - Found BibTeX data source 'aero_report.bib'
-[173] Utils.pm:147> WARN - Entry peery12 does not parse correctly
-[177] Utils.pm:163> ERROR - BibTeX subsystem: /tmp/jwhU5PRxFF/aero_report.bib_653.utf8, line 89, syntax error: found "author", expected ","
-[177] Biber.pm:107> INFO - WARNINGS: 1
-[177] Biber.pm:111> INFO - ERRORS: 1
+[1] Config.pm:330> INFO - Logfile is './output/aero_report.blg'
+[37] biber:286> INFO - === Sat Mar 19, 2016, 23:26:54
+[37] Biber.pm:334> INFO - Reading './output/aero_report.bcf'
+[149] Biber.pm:677> INFO - Found 10 citekeys in bib section 0
+[166] Biber.pm:3054> INFO - Processing section 0
+[180] Biber.pm:3193> INFO - Looking for bibtex format file 'aero_report.bib' for section 0
+[182] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
+[183] bibtex.pm:935> INFO - Found BibTeX data source 'aero_report.bib'
+[326] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[327] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[327] Biber.pm:2931> INFO - Sorting list 'anyt' of type 'entry' with scheme 'anyt' and locale 'en-US'
+[328] Biber.pm:2935> INFO - No sort tailoring available for locale 'en-US'
+[343] bbl.pm:505> INFO - Writing './output/aero_report.bbl' with encoding 'ascii'
+[345] bbl.pm:596> INFO - Output to ./output/aero_report.bbl
