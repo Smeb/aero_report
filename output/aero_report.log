@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.11.17)  20 MAR 2016 20:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.11.17)  20 MAR 2016 21:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -721,18 +721,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 160.
 
-[3 <./media/ribbing.PNG>]
-<media/temperature.PNG, id=18, 544.28343pt x 141.52875pt>
+[3 <./media/ribbing.PNG>] [4]
+<media/temperature.PNG, id=21, 544.28343pt x 141.52875pt>
 File: media/temperature.PNG Graphic file (type png)
 
 <use media/temperature.PNG>
-Package pdftex.def Info: media/temperature.PNG used on input line 228.
+Package pdftex.def Info: media/temperature.PNG used on input line 239.
 (pdftex.def)             Requested size: 313.69025pt x 81.56627pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[4]
 
 ! LaTeX Error: Bad math environment delimiter.
 
@@ -740,7 +736,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.255       \[
+l.266       \[
               S_{ref}\] & Reference Area \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -753,7 +749,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.255       \[S_{ref}\]
+l.266       \[S_{ref}\]
                         & Reference Area \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -766,7 +762,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.256       \[
+l.267       \[
               C_L\] & Lift Coefficient
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -779,20 +775,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.256       \[C_L\]
+l.267       \[C_L\]
                     & Lift Coefficient
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<media/ju87av0.jpg, id=22, 733.74126pt x 295.1025pt>
+[5 <./media/temperature.PNG>]
+<media/ju87av0.jpg, id=30, 733.74126pt x 295.1025pt>
 File: media/ju87av0.jpg Graphic file (type jpg)
  <use media/ju87av0.jpg>
-Package pdftex.def Info: media/ju87av0.jpg used on input line 272.
+Package pdftex.def Info: media/ju87av0.jpg used on input line 299.
 (pdftex.def)             Requested size: 313.69025pt x 126.16212pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
@@ -800,34 +794,34 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 278.
+ne 305.
 
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 278.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 305.
 (/usr/share/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-) [5 <./media/temperature.PNG>]
-Overfull \hbox (17.71758pt too wide) in paragraph at lines 279--279
+)
+Overfull \hbox (17.71758pt too wide) in paragraph at lines 306--306
 []\T1/ptm/m/n/10.95 A.S. Hartshorn. ^^P  "Fuse-lage In-ter-fer-ence Ef-fect"^^Q
 . In: \T1/ptm/m/it/10.95 Air-craft En-gi-neer-ing and Aerospace
  []
 
 
-Overfull \hbox (10.37166pt too wide) in paragraph at lines 279--279
+Overfull \hbox (10.37166pt too wide) in paragraph at lines 306--306
 []\T1/ptm/m/n/10.95 Alfred I. Sibila. \T1/ptm/m/it/10.95 De-sign-ing the Bent-W
 ing Bird\T1/ptm/m/n/10.95 . \T1/ptm/m/sc/10.95 url\T1/ptm/m/n/10.95 : $\T1/pcr/
 m/n/10.95 www . usni . org / magazines /
  []
 
-[6 <./media/ju87av0.jpg>] (./output/aero_report.aux)
+[6 <./media/ju87av0.jpg>] [7] (./output/aero_report.aux)
 Package logreq Info: Writing requests to './output/aero_report.run.xml'.
 \openout1 = `./output/aero_report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11217 strings out of 493054
- 185113 string characters out of 6140585
- 677690 words of memory out of 5000000
- 14563 multiletter control sequences out of 15000+600000
+ 11218 strings out of 493054
+ 185139 string characters out of 6140585
+ 677701 words of memory out of 5000000
+ 14564 multiletter control sequences out of 15000+600000
  60295 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,14n,57p,1136b,1541s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -838,10 +832,10 @@ mr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/s
 hare/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-dist/fonts
 /type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utm
 r8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ./output/aero_report.pdf (6 pages, 468262 bytes).
+Output written on ./output/aero_report.pdf (7 pages, 470526 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 67 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -99,6 +99,28 @@
       \field{pages}{730\bibrangedash 735}
       \range{pages}{6}
     \endentry
+    \entry{hirschel03}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=627302d644304116c1dddeff0f2af542}{Hirschel}{H\bibinitperiod}{Ernst\bibnamedelima H.}{E\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{627302d644304116c1dddeff0f2af542}
+      \strng{fullhash}{627302d644304116c1dddeff0f2af542}
+      \field{labelalpha}{Hir03}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aeronautical Research in Germany}
+      \field{year}{2003}
+    \endentry
     \entry{manual41}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=0e2a8777b734b5938df8e8a1b9508649}{Junkers}{J\bibinitperiod}{}{}{}{}{}{}}%
