@@ -184,6 +184,9 @@ INPUT /usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmrc8t.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
+INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmrc8t.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT media/ribbing.PNG
 INPUT ./media/ribbing.PNG
 INPUT ./media/ribbing.PNG
@@ -194,9 +197,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmrc8t.vf
-INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
@@ -205,6 +205,12 @@ INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT media/temperature.PNG
+INPUT ./media/temperature.PNG
+INPUT ./media/temperature.PNG
+INPUT media/ju87av0.jpg
+INPUT ./media/ju87av0.jpg
+INPUT ./media/ju87av0.jpg
 INPUT /usr/share/texmf-dist/tex/latex/psnfss/t1pcr.fd
 INPUT /usr/share/texmf-dist/tex/latex/psnfss/t1pcr.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/courier/pcrr8t.tfm

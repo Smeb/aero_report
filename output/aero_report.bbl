@@ -35,29 +35,6 @@
       \verb www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/oxforddata.txt
       \endverb
     \endentry
-    \entry{curry88}{book}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=7e58451b9490874c941f011259f7894b}{Curry}{C\bibinitperiod}{Norman\bibnamedelima S.}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Washington}%
-      }
-      \list{publisher}{2}{%
-        {American Institute of Aeronautics}%
-        {Astronautics}%
-      }
-      \strng{namehash}{7e58451b9490874c941f011259f7894b}
-      \strng{fullhash}{7e58451b9490874c941f011259f7894b}
-      \field{labelalpha}{Cur88}
-      \field{sortinit}{C}
-      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
-      \field{labelyear}{1988}
-      \field{datelabelsource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Aircraft Landing Gear Design - Principles and Practices}
-      \field{year}{1988}
-    \endentry
     \entry{guardia14}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=86ca26b834c41c033fc827ffd2d6fc6f}{Guardia}{G\bibinitperiod}{Mike}{M\bibinitperiod}{}{}{}{}}%
@@ -122,6 +99,28 @@
       \field{pages}{730\bibrangedash 735}
       \range{pages}{6}
     \endentry
+    \entry{manual41}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0e2a8777b734b5938df8e8a1b9508649}{Junkers}{J\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Dessau}%
+      }
+      \list{publisher}{1}{%
+        {Junkers Fugzeug und Motorenwerke}%
+      }
+      \strng{namehash}{0e2a8777b734b5938df8e8a1b9508649}
+      \strng{fullhash}{0e2a8777b734b5938df8e8a1b9508649}
+      \field{labelalpha}{Jun41}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{1941}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Junkers Flugmotor Jumo 211}
+      \field{year}{1941}
+    \endentry
     \entry{killen67}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=0c15eb81f01cb7e68b31c8fb53919116}{Killen}{K\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
@@ -143,6 +142,28 @@
       \field{labeltitlesource}{title}
       \field{title}{The Luftwaffe: A history}
       \field{year}{1967}
+    \endentry
+    \entry{manual39}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9e5aca1f5d0284eda4af69c5c948f4d0}{Luftwaffe}{L\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Dessau}%
+      }
+      \list{publisher}{1}{%
+        {Junkers Fugzeug und Motorenwerke}%
+      }
+      \strng{namehash}{9e5aca1f5d0284eda4af69c5c948f4d0}
+      \strng{fullhash}{9e5aca1f5d0284eda4af69c5c948f4d0}
+      \field{labelalpha}{Luf39}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{1939}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ju 87 B-1 Betriebsanleitung}
+      \field{year}{1939}
     \endentry
     \entry{nasa4}{online}{}
       \name{author}{1}{}{%
@@ -212,28 +233,6 @@
       \verb www.usni.org/magazines/navalhistory/1995-02/designing-bent-wing-bird
       \endverb
     \endentry
-    \entry{manual39}{book}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=88183b946cc5f0e8c96b2e66e1c74a7e}{Unknown}{U\bibinitperiod}{}{}{}{}{}{}}%
-      }
-      \list{location}{1}{%
-        {Dessau}%
-      }
-      \list{publisher}{1}{%
-        {Junkers Fugzeug und Motorenwerke}%
-      }
-      \strng{namehash}{88183b946cc5f0e8c96b2e66e1c74a7e}
-      \strng{fullhash}{88183b946cc5f0e8c96b2e66e1c74a7e}
-      \field{labelalpha}{Unk39}
-      \field{sortinit}{U}
-      \field{sortinithash}{8145509bd2718876fc77d31fd2cde117}
-      \field{labelyear}{1939}
-      \field{datelabelsource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Ju 87 B-1 Betriebsanleitung}
-      \field{year}{1939}
-    \endentry
     \entry{wardlaw33}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=0fc710c2f9761782e6727c2a3ca4d2be}{Wardlaw}{W\bibinitperiod}{George\bibnamedelima Addison}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -293,6 +292,29 @@
       \field{labeltitlesource}{title}
       \field{title}{Report No. 614}
       \field{year}{1938}
+    \endentry
+    \entry{junkers87}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fb8b4765876e2b1d824fc99f1284f455}{Zoeller}{Z\bibinitperiod}{Horst}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fb8b4765876e2b1d824fc99f1284f455}
+      \strng{fullhash}{fb8b4765876e2b1d824fc99f1284f455}
+      \field{labelalpha}{Zoe}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelyear}{2016}
+      \field{labelmonth}{03}
+      \field{labelday}{16}
+      \field{datelabelsource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Junkers Ju87 / Ju 187 /Ju287}
+      \field{urlday}{16}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \verb{url}
+      \verb hugojunkers.pytalhost.com/ju_ju87_a1.htm
+      \endverb
     \endentry
   \endsortlist
 \endrefsection

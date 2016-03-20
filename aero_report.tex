@@ -38,7 +38,7 @@
   \normalfont \normalsize
   \textsc{ucl, computer science}
   \horrule{0.5pt} \\[0.4cm]
-  \huge{Case Study: Junkers 87 'Stuka'}\\
+  \huge{Case Study: Junkers 87B 'Stuka'}\\
   \horrule{0.5pt} \\[0.5cm]
 }
 
@@ -51,16 +51,16 @@
 \tableofcontents
 \section{Abstract}
 This case study examines the Junkers Ju 87 'Stuka', a German dive bomber
-designed and deployed during the Third Reich. The study begins by giving
-context for the Stuka, and an examination of the motivations behind dive
-bombing, before proceeding to an in depth analysis of the contstruction
+designed and deployed during the Third Reich; specifically, the study
+focuses on the 87B, which was the main Stuka variant in use between 1938 - 1941.
+The study begins by giving context for the Stuka, and an examination of the motivations behind dive
+bombing, before proceeding to an in depth analysis of the construction
 and aeronautic performance of the Stuka. Where possible primary source
-material such as the surviving Stuka at RAF museum Hendon, and German
-maintenance manuals have been used. All other evidence has been
+material has been used. All other evidence has been
 gathered from secondary historical commentary; and all calculations have
 been informed by technical reports and textbooks.
 
-When calculating operational parameters for the Stuka, it is necessary
+When calculating operational parameters for the Stuka, it was necessary
 to consider that the Luftwaffe deployed the Stuka in the Western and
 Eastern fronts, as well as the Desert and Meditteranean theatres.
 Accordingly, calculations have been performed for the hottest and
@@ -69,7 +69,7 @@ meteorological data from the Battle of Britain as a model for ideal
 operational conditions.
 \section{Junkers Ju 87}
 
-The Junkers Ju 87 design, the development of
+The Junkers Ju 87, the development of
 which was lead by Hermann Pohlman, began development in 1933. First flown
 in 1935 \autocite[p.~9]{weal97}, the Stuka succeeded a previous
 Junkers Ju 47 K dive bombing design, which had been rejected by the
@@ -111,16 +111,14 @@ enemy fighters, since their diving manoeuvres were predictable and broke from
 protective formations, and they could not match the manoeuvrability or
 speed of fighter craft; this, in conjunction with improvements in
 bombing technology, lead to the decline of the dive bomber after WW2.
-\subsection{Payload}
-\section{General Design of the Ju 87}
-
+\section{General Design of the Ju 87B}
 \subsection{Body}
 The Stuka was a twin seater monoplane, with the fuselage acting as an
 anchor for two spars, one for each wing, which served to distribute the
 load caused by lift and enable the cantilever of the wings.
 The use of an anchored spar had been pioneered by Hugo Junkers in 1915
 \autocite{nasa4} in the Junkers J 1, who found that the improved
-strength of an anchored spar provided sufficient support to allow for an
+strength provided sufficient support to allow for an
 all metal design with cantilevered wings. Single wing designs based on
 this principle then superseded the previous biplane designs, which were
 hampered by aerodynamic interference between the two wings, as well as
@@ -138,7 +136,7 @@ stringers served to reinforce the Stuka for the increased load
 experienced during pullout from the diving maneuver \autocite{peery12}.
 Additionally, to further increase the structural integrity of the tail, which
 experienced extreme load during pullout, significantly more frames were
-used in the tail section than the body (figure.~\ref{fig:ribs}).
+used in the tail section than the body (Figure.~\ref{fig:ribs}).
 \begin{figure}[h]
   \centering
   \includegraphics[width=0.75\textwidth]{media/ribbing}
@@ -177,9 +175,8 @@ anhedral angle would act to remove the wings from the pilot's field of
 view \autocite[p~.16]{guardia14}.
 
 \subsection{Control Surfaces}
-Beneath the trailing edge of the wing were fixed full-span
-ailerons which were operated using hydraulics, and offset from the wing
-itself. This uncommon design,
+Offset from the trailing edge of the wing were
+full-span ailerons which were operated using hydraulics. This uncommon design,
 invented by Otto Maders and known as a ``Junkers flap'' \autocite{}, allowed airflow to pass
 between the wing and the aileron even when the aileron was retracted.
 The main effect of the flap was to ``influence the air flow around the main airfoil so
@@ -194,7 +191,7 @@ automated pullout system.
 
 \subsection{Materials}
 
-The body itself was made principally from
+The body and wings were made principally from
 duralumin, an aluminum alloy composed from copper, magnesium, and
 manganese
 \footnote{Unfortunately, precise values for the alloy could not
@@ -202,10 +199,43 @@ manganese
   copper, 0.5 - 1.0\% manganese, and 0.5 - 1.5\%
   magnesium \autocite[p.~102-103]{wardlaw33}
 }, except in cases where parts were required to be more resilient to daily
-wear, in which case stronger magnesium alloys were used to reduce the
-need for maintenance \autocite[p.~15]{guardia14}.
+wear, in which case stronger Elektron alloys were used to reduce the
+need for maintenance \autocite[p.~15]{guardia14}. The outer sheeting was
+also made from duralumin, and parts that underwent greater stress, such
+as bolts and the canopy frame, were constructed from steel.
 
+\subsection{Propulsion}
+Thrust for the Ju 87B was provided by a variable pitch 3.5m
+Jumo-Hamilton HPA III propeller which was automatically regulated, and
+which was powered by a 12-cylinder Jumo 211D engine producing 883kW. The engine
+was water-cooled, being fed from a 10 litre tank
+\autocite[p~.7]{manual41}, and cooling was provided by two radiators
+positioned above and below the engine block so that air drawn by the
+propeller would pass over the radiators; this cooling action could be
+controlled to some extent using cooler flaps operated by the pilot. Fuel
+was injected into the engine from two 240-liter tanks, and in case of
+injector failure, the gunner could hand operate a manual pump. The two
+fuel tanks were located beneath the cockpit, which was protected from
+the engine and tanks by an asbestos firewall. Maximum safe engine temperature
+was reduced as altitude increased (Figure ~\ref{fig:temp}), limiting the
+work that could be done as the Stuka climbed. Typically the Stuka
+operated at 4500m, and it was limited to a maximum service ceiling of
+8000m due to its unpressurized cockpit.
+
+\autocite[p~.16]{guardia14}.
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.75\textwidth]{media/temperature}
+  \caption{Maximum temperature (in Celsius) of engine against altitude
+    (in km) of Jumo 211 engine \autocite[p~.11]{manual41}}
+  \label{fig:temp}
+\end{figure}
+The dry weight of the engine was 638kg, giving the 87B an overall unloaded
+weight of 2760kg, which could be increased up to a maximum of 4400kg;
+this allowed for a total possible 500kg of ordnance when accounting for
+crew and fuel.
 \subsection{Calculations}
+\subsubsection{Lift}
 For the purposes of simplification the anhedral portion of the wing is
 treated as flat, since no mathematical model could be found to calculate
 a polyhedral wing with anhedral and dihedral parts. Calculation is done
@@ -227,29 +257,24 @@ are used for calculation.
     \end{tabular}
   \end{tabular}
 \end{equation}
-\section{Testing, Production, Variants}
-\subsection{Testing}
+\subsubsection{Drag}
+\subsubsection{Speed}
+\subsubsection{Range}
+\section{Testing, Development, and Production}
+\subsection{Testing and Development}
+The prototype of the 87B was the predecessor Ju 87A, which went through
+a number of successive iterations during its development. The initial
+design, the V1, featured a Rolls-Royce Kestrel engine and a twin
+tail-fin (Figure.~\ref{fig:v1})
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.75\textwidth]{media/ju87av0}
+  \caption{The Ju 87A-V1 with twin tail fin and Kestrel engine
+    \autocite{junkers87}}
+  \label{fig:v1}
+\end{figure}
 \subsection{Production}
-All Stuka variants featured reversed gull wings, a 'broken nose' [reference]
-hump to the fore of the cockpit, and fixed landing gear with aerodynamic
-spatting\autocite[p.~4]{curry88}, lending the
-appearance of [quote, reference]. % reasons for these three design
-% choices
-
-As a wartime plane, the Stuka had a number of evolutionary variants as
-Luftwaffe requirements changed during the course of the war. Principal among these were the Ju 87A
-(pre-war prototype), Ju 87B (early war, Battle of Britain), Ju 87D
-(late war, improved performace), and Ju 87G (anti tank close support
-role).
-\subsection{Ju 87A}
-The 87A went through a number of iterations in the lead up to WW2,
-until it was eventually replaced by the Ju 87B production design.
-
-{image of Ju 87A}
-\subsection{Ju 87B}
-Motor : Jumo 211 A/1
-\subsection{Ju 87D}
-\subsection{Ju 87G}
 \printbibliography
 \end{document}
 % maximum diving speed 540 km/h \autocite[p~.56]{manual39}
