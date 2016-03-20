@@ -19,6 +19,22 @@
 
 \refsection{0}
   \sortlist{anyt}{anyt}
+    \entry{oxfmet}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{03}
+      \field{labelday}{18}
+      \field{datelabelsource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{Meteorological data, Oxford, 1853 - 2016}
+      \field{urlday}{18}
+      \field{urlmonth}{03}
+      \field{urlyear}{2016}
+      \verb{url}
+      \verb www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/oxforddata.txt
+      \endverb
+    \endentry
     \entry{curry88}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=7e58451b9490874c941f011259f7894b}{Curry}{C\bibinitperiod}{Norman\bibnamedelima S.}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
@@ -84,6 +100,27 @@
       \field{year}{1931}
       \field{pages}{201\bibrangedash 203}
       \range{pages}{3}
+    \endentry
+    \entry{neumann88}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=74d0c79e4ff38ac5d9825a41ba44bc14}{Hartshorn}{H\bibinitperiod}{A.S.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{74d0c79e4ff38ac5d9825a41ba44bc14}
+      \strng{fullhash}{74d0c79e4ff38ac5d9825a41ba44bc14}
+      \field{labelalpha}{Har88}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1988}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{7}
+      \field{journaltitle}{Bulletin of the American Meteorological Society}
+      \field{title}{Great Historical Events That Were Significantly Affected by the Weather: Part 8, Germany's War on the Soviet Union, 1941-45}
+      \field{volume}{69}
+      \field{year}{1988}
+      \field{pages}{730\bibrangedash 735}
+      \range{pages}{6}
     \endentry
     \entry{killen67}{book}{}
       \name{author}{1}{}{%

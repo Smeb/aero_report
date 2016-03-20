@@ -1,0 +1,35 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Abstract}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Junkers Ju 87}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Payload}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}General Design of the Ju 87}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Body}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Wings}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.1}Lift calculation}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Control Surfaces}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Materials}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Testing, Production, Variants}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Testing}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Production}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Ju 87A}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Ju 87B}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5}Ju 87D}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6}Ju 87G}{5}

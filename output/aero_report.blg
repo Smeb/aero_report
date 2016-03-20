@@ -1,15 +1,15 @@
 [0] Config.pm:327> INFO - This is Biber 2.2
-[1] Config.pm:330> INFO - Logfile is './output/aero_report.blg'
-[37] biber:286> INFO - === Sat Mar 19, 2016, 23:26:54
-[37] Biber.pm:334> INFO - Reading './output/aero_report.bcf'
-[149] Biber.pm:677> INFO - Found 10 citekeys in bib section 0
-[166] Biber.pm:3054> INFO - Processing section 0
-[180] Biber.pm:3193> INFO - Looking for bibtex format file 'aero_report.bib' for section 0
-[182] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
-[183] bibtex.pm:935> INFO - Found BibTeX data source 'aero_report.bib'
-[326] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[327] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[327] Biber.pm:2931> INFO - Sorting list 'anyt' of type 'entry' with scheme 'anyt' and locale 'en-US'
-[328] Biber.pm:2935> INFO - No sort tailoring available for locale 'en-US'
-[343] bbl.pm:505> INFO - Writing './output/aero_report.bbl' with encoding 'ascii'
-[345] bbl.pm:596> INFO - Output to ./output/aero_report.bbl
+[0] Config.pm:330> INFO - Logfile is './output/aero_report.blg'
+[35] biber:286> INFO - === Sun Mar 20, 2016, 15:39:57
+[35] Biber.pm:334> INFO - Reading './output/aero_report.bcf'
+[133] Biber.pm:677> INFO - Found 12 citekeys in bib section 0
+[152] Biber.pm:3054> INFO - Processing section 0
+[166] Biber.pm:3193> INFO - Looking for bibtex format file 'aero_report.bib' for section 0
+[167] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
+[169] bibtex.pm:935> INFO - Found BibTeX data source 'aero_report.bib'
+[352] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[352] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[352] Biber.pm:2931> INFO - Sorting list 'anyt' of type 'entry' with scheme 'anyt' and locale 'en-US'
+[353] Biber.pm:2935> INFO - No sort tailoring available for locale 'en-US'
+[371] bbl.pm:505> INFO - Writing './output/aero_report.bbl' with encoding 'ascii'
+[375] bbl.pm:596> INFO - Output to ./output/aero_report.bbl
