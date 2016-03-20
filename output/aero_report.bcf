@@ -2260,10 +2260,9 @@
     <bcf:citekey order="19">manual41</bcf:citekey>
     <bcf:citekey order="20">neumann88</bcf:citekey>
     <bcf:citekey order="21">oxfmet</bcf:citekey>
-    <bcf:citekey order="22">guardia14</bcf:citekey>
-    <bcf:citekey order="23">hirschel03</bcf:citekey>
+    <bcf:citekey order="22">hirschel03</bcf:citekey>
+    <bcf:citekey order="23">junkers87</bcf:citekey>
     <bcf:citekey order="24">junkers87</bcf:citekey>
-    <bcf:citekey order="25">junkers87</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="anyt" type="entry" sortscheme="anyt">
   <bcf:sorting>
