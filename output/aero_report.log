@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.11.17)  20 MAR 2016 15:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.11.17)  20 MAR 2016 17:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -717,14 +717,11 @@ File: media/ribbing.PNG Graphic file (type png)
 Package pdftex.def Info: media/ribbing.PNG used on input line 144.
 (pdftex.def)             Requested size: 313.69025pt x 137.30862pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 160.
+(Font)              <9> on input line 162.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 160.
+(Font)              <5> on input line 162.
 
 [3 <./media/ribbing.PNG>]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 180.
-
 
 ! LaTeX Error: Bad math environment delimiter.
 
@@ -732,7 +729,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.193       \[
+l.225       \[
               S_{ref}\] & Reference Area \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -745,7 +742,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.193       \[S_{ref}\]
+l.225       \[S_{ref}\]
                         & Reference Area \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -758,7 +755,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.194       \[
+l.226       \[
               C_L\] & Lift Coefficient
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -771,7 +768,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.194       \[C_L\]
+l.226       \[C_L\]
                     & Lift Coefficient
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -784,28 +781,22 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 239.
+ne 253.
 
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 239.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 253.
 (/usr/share/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Overfull \hbox (17.10431pt too wide) in paragraph at lines 240--240
+Overfull \hbox (17.71758pt too wide) in paragraph at lines 254--254
 []\T1/ptm/m/n/10.95 A.S. Hartshorn. ^^P  "Fuse-lage In-ter-fer-ence Ef-fect"^^Q
 . In: \T1/ptm/m/it/10.95 Air-craft En-gi-neer-ing and Aerospace
  []
 
 [5]
-Overfull \hbox (9.75839pt too wide) in paragraph at lines 240--240
+Overfull \hbox (10.37166pt too wide) in paragraph at lines 254--254
 []\T1/ptm/m/n/10.95 Alfred I. Sibila. \T1/ptm/m/it/10.95 De-sign-ing the Bent-W
 ing Bird\T1/ptm/m/n/10.95 . \T1/ptm/m/sc/10.95 url\T1/ptm/m/n/10.95 : $\T1/pcr/
 m/n/10.95 www . usni . org / magazines /
- []
-
-
-Overfull \hbox (1.06232pt too wide) in paragraph at lines 240--240
-[]\T1/ptm/m/n/10.95 Unknown. \T1/ptm/m/it/10.95 Ju 87 B-1 Be-trieb-san-leitung\
-T1/ptm/m/n/10.95 . Dessau: Junkers Fugzeug und Mo-toren-werke,
  []
 
 [6] (./output/aero_report.aux)
@@ -814,11 +805,11 @@ Package logreq Info: Writing requests to './output/aero_report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11206 strings out of 493054
- 184856 string characters out of 6140585
- 677650 words of memory out of 5000000
+ 11204 strings out of 493054
+ 184853 string characters out of 6140585
+ 678662 words of memory out of 5000000
  14552 multiletter control sequences out of 15000+600000
- 63098 words of font info for 65 fonts, out of 8000000 for 9000
+ 60295 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,14n,57p,1136b,1541s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
@@ -827,12 +818,11 @@ c/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/s
 hare/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-dist/fonts
 /type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utm
-b8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
-mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ./output/aero_report.pdf (6 pages, 327929 bytes).
+r8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ./output/aero_report.pdf (6 pages, 321446 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -278,6 +278,22 @@
       \field{title}{Junkers Ju 87 Stukageschwader 1937-41 (Combat Aircraft)}
       \field{year}{1997}
     \endentry
+    \entry{wenzinger38}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=99dd010b52839cf0d90bf093be8d3523}{Wenzinger}{W\bibinitperiod}{Carl\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{99dd010b52839cf0d90bf093be8d3523}
+      \strng{fullhash}{99dd010b52839cf0d90bf093be8d3523}
+      \field{labelalpha}{Wen38}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1938}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Report No. 614}
+      \field{year}{1938}
+    \endentry
   \endsortlist
 \endrefsection
 \endinput
